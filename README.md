@@ -64,5 +64,8 @@ Figure 7.
 
 <!--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt) -->
 
-Starting a bike sharing service could be a good business adventure. When looking at the data, we can see that a majority of the users are using the bikes for around 20 minutes. 
+Starting a bike sharing service could be a good business adventure. When looking at the data, we can see that a majority of the users are using the bikes for around 20 minutes. When looking at figure 2, we can see that males tend to take longer than females per bike ride. If figure 3 and 4 are examined, the trend is that most of the users ride around the typical start and end time of work with males being a majority of the users. Most of the users who are subscribers are on the male and tend most subscribers tend to use during the weekday. 
+More visualizations that could be considered would be finding the percent difference between genders who subscribe. Another visualization could be knowing the age range of users. 
+
+
 
