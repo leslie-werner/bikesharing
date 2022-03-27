@@ -28,6 +28,16 @@ There is a description of the results for each visualization (7 pt) -->
 
 <img width="971" alt="TripsByGender(WD)" src="https://user-images.githubusercontent.com/65638310/160265995-1cce759a-d28e-429b-8c0e-c0a4fef69660.png">
 
+* Top Starting Locations
+
+<img width="972" alt="TopStartingLocations" src="https://user-images.githubusercontent.com/65638310/160266037-196d029e-1402-4b81-8117-6918d8f03d08.png">
+
+
+* Top Ending Locations
+
+<img width="971" alt="TopEndingLocations" src="https://user-images.githubusercontent.com/65638310/160266045-d5f030cd-8445-43a1-b41a-68c044ab40e4.png">
+
+
 
 ## Summary
 
