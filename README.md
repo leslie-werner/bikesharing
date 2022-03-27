@@ -64,4 +64,5 @@ Figure 7.
 
 <!--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt) -->
 
+Starting a bike sharing service could be a good business adventure. When looking at the data, we can see that a majority of the users are using the bikes for around 20 minutes. 
 
