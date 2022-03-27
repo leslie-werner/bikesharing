@@ -2,6 +2,7 @@
 
 ## Overview
 <!--Overview of the statistical analysis: The purpose of the analysis is well defined. (5 pt) -->
+The purpose of this challenge was to use Tableau to create visualized data for an upcoming bike-sharing data. Data used from New York City was used to do a statistical analysis to see if starting a bike-sharing company in a different city would be a beneficial idea.
 
 ## Results
 <!--Results:
@@ -38,7 +39,7 @@ There is a description of the results for each visualization (7 pt) -->
 <img width="971" alt="TopEndingLocations" src="https://user-images.githubusercontent.com/65638310/160266045-d5f030cd-8445-43a1-b41a-68c044ab40e4.png">
 
 
-
 ## Summary
 
 <!--There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt) -->
+
