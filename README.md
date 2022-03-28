@@ -30,6 +30,7 @@ In this visualization, the goal was to show the number of bike trips by each hou
 Figure 3.
 <img width="821" alt="TripsByWeekdayForEachHour" src="https://user-images.githubusercontent.com/65638310/160265984-97b1a801-2539-4b08-a4c5-4784898a8f89.png">
 
+https://public.tableau.com/views/citibike_16485079235700/citibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link 
 * Trips by Gender (Weekday per Hour)
 
 Using the same approach as above, the heatmap in Figure 4 is very similar but uses gender data as well. This heatmap is showing the trips by gender for a weekday per hour.
@@ -66,6 +67,8 @@ Figure 7.
 
 Starting a bike sharing service could be a good business adventure. When looking at the data, we can see that a majority of the users are using the bikes for around 20 minutes. When looking at figure 2, we can see that males tend to take longer than females per bike ride. If figure 3 and 4 are examined, the trend is that most of the users ride around the typical start and end time of work with males being a majority of the users. Most of the users who are subscribers are on the male and tend most subscribers tend to use during the weekday. 
 More visualizations that could be considered would be finding the percent difference between genders who subscribe. Another visualization could be knowing the age range of users. 
+
+[link to tableau](https://public.tableau.com/views/citibike_16485079235700/citibike?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 
